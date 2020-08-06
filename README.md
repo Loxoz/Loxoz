@@ -1,19 +1,24 @@
 # Hi there, I'm Loxoz 👋
 
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&logoColor=fff&label=&message=Twitter&color=1DA1F2)](https://twitter.com/LoxozTV)
+[![Discord](https://img.shields.io/static/v1?style=for-the-badge&logo=discord&logoColor=fff&label=&message=Discord&color=7289DA)](https://discord.gg/BUkHym2)
 
-I'm a french guy in wanting to discover new technologies.
+I'm a young french guy in wanting to discover new technologies.  
+Since i'm still learning by myself i don't do as much public repos but i'm willing to change and also contribute to public repos 😉
+
+<details>
+<summary>More about me, different from dev 💻</summary>
+<ul>
+    <li>I'm also Graphist and Designer and i do a bit of UI design</li>
+    <li>I do some 3D Stuff in blender, like modeling and shading</li>
+    <li>I stream on twitch on various things, mostly games</li>
+    <li>I also like photography and image editing</li>
+</ul>
+</details>
 
 ## Languages, frameworks & Tools
 
 ### I'm currently / frequently using
-
-<!--
-![VSCode](https://img.shields.io/static/v1?style=for-the-badge&label=&message=VSCode&logoWidth=20&logo=visual-studio-code&logoColor=fff&color=007ACC)
-![Github](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Github&logoWidth=20&logo=github&logoColor=fff&color=181717)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Node.JS&logoWidth=20&logo=node.js&logoColor=fff&color=339933)
-![Webpack](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Webpack&logoWidth=20&logo=webpack&logoColor=fff&color=8DD6F9)
--->
 
 <code><img alt="Visual Studio Code" title="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img alt="Github" title="Github" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
@@ -22,8 +27,9 @@ I'm a french guy in wanting to discover new technologies.
 <code><img alt="Webpack" title="Webpack" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img alt="Babel" title="Babel" width="28px" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"></code>
 <code><img alt="ESLint" title="ESLint" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
-<code><img alt="Express" title="ESLint" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img alt="Express" title="Express" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img alt="Vue.js" title="Vue.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img alt="NGINX" title="NGINX" width="28px" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png"></code>
 <code><img alt="Electron" title="Electron" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 <code><img alt="JavaScript" title="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="es6" title="es6" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
@@ -60,7 +66,7 @@ I'm a french guy in wanting to discover new technologies.
 <code><img alt="Gatsby" title="Gatsby" width="28px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"></code>
 <code><img alt="GraphQL" title="GraphQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img alt="Mongodb" title="Mongodb" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img alt="Mongodb" title="Mongodb" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img alt="Firebase" title="Firebase" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 Note: those are sorted from the most recent to the oldest
 
