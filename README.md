@@ -69,6 +69,6 @@ Note: those are sorted from the most recent to the oldest
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Loxoz&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loxoz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loxoz&layout=compact&hide_border=true)
 
 <!-- Made with love 💗 -->
