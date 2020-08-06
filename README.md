@@ -46,6 +46,8 @@ Since i'm still learning by myself i don't do as much public repos but i'm willi
 ### I used previously, but i left since then
 
 
+<code><img alt="Android" title="Android" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img alt="Arduino" title="Arduino" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img alt="C#" title="C#" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img alt=".NET" title=".NET" width="28px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
 <code><img alt="OpenGL" title="OpenGL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"></code>
@@ -54,6 +56,8 @@ Since i'm still learning by myself i don't do as much public repos but i'm willi
 <code><img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img alt="MySQL" title="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img alt="PHP" title="PHP" width="28px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+
+_Note: those are sorted from the most recent to the oldest_
 
 ### I want to learn or i'm learning
 
@@ -68,7 +72,7 @@ Since i'm still learning by myself i don't do as much public repos but i'm willi
 <code><img alt="Mongodb" title="Mongodb" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img alt="Firebase" title="Firebase" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-Note: those are sorted from the most recent to the oldest
+_Note: those are sorted so the one the most to the left is more likely to be the one i'm learning_
 
 ---
 
