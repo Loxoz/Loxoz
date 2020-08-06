@@ -32,7 +32,7 @@ I'm a french guy in wanting to discover new technologies.
 <img align="left" alt="Gradle" title="Gradle" width="28px" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png">
 <img align="left" alt="Unreal Engine" title="Unreal Engine" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png">
 
-<br>
+<br><br>
 
 ### I used previously, but i left since then
 
@@ -46,7 +46,7 @@ I'm a french guy in wanting to discover new technologies.
 <img align="left" alt="MySQL" title="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img align="left" alt="PHP" title="PHP" width="28px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
 
-<br>
+<br><br>
 
 ### I want to learn or i'm learning
 
@@ -61,7 +61,7 @@ I'm a french guy in wanting to discover new technologies.
 <img align="left" alt="Mongodb" title="Mongodb" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 <img align="left" alt="Mongodb" title="Mongodb" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 
-<br>
+<br><br>
 
 Note: those are sorted from the most recent to the oldest
 
