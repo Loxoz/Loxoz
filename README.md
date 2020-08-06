@@ -1,10 +1,9 @@
 # Hi there, I'm Loxoz 👋
 
-[![Twitter](https://img.shields.io/static/v1?style=flat-square&logo=Twitter&logoColor=fff&label=&message=Twitter&color=1DA1F2)](https://twitter.com/LoxozTV)
+[![Twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=fff&label=&message=Twitter&color=1DA1F2)](https://twitter.com/LoxozTV)
+[![Patreon](https://img.shields.io/static/v1?style=flat-square&logo=patreon&logoColor=fff&label=&message=Patreon&color=F96854)](https://patreon.com/Loxoz)
 
 I'm a french guy in wanting to discover new technologies.
-
----
 
 ## Languages, frameworks & Tools
 
@@ -68,7 +67,6 @@ Note: those are sorted from the most recent to the oldest
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Loxoz&show_icons=true&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loxoz&layout=compact&hide_border=true)
 
 <!-- Made with love 💗 -->
