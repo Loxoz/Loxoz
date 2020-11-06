@@ -3,22 +3,21 @@
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&logoColor=fff&label=&message=Twitter&color=1DA1F2)](https://twitter.com/LoxozTV)
 [![Discord](https://img.shields.io/static/v1?style=for-the-badge&logo=discord&logoColor=fff&label=&message=Discord&color=7289DA)](https://discord.gg/BUkHym2)
 
-I'm a young french guy in wanting to discover new technologies.  
-Since i'm still learning by myself i don't do as much public repos but i'm willing to change and also contribute to public repos 😉
+I'm a french guy who wants to discover new technologies.  
+Since i'm still learning by myself i don't do as much public repos but i'm willing to change and also contribute to public repos!
 
 <details>
-<summary>More about me, different from dev 💻</summary>
-<ul>
-    <li>I'm also Graphist and Designer and i do a bit of UI design</li>
-    <li>I do some 3D Stuff in blender, like modeling and shading</li>
-    <li>I stream on twitch on various things, mostly games</li>
-    <li>I also like photography and image editing</li>
-</ul>
+    <summary>More about me, different from dev 💻</summary>
+    <ul>
+        <li>I'm also graphic designer / UI / UX</li>
+        <li>I do some 3D Stuff in blender, like modeling and shading</li>
+        <li>And I like photography and image editing</li>
+    </ul>
 </details>
 
 ## Languages, frameworks & Tools
 
-### I'm currently / frequently using
+### I frequently use
 
 <code><img alt="Visual Studio Code" title="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img alt="Github" title="Github" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
@@ -41,29 +40,30 @@ Since i'm still learning by myself i don't do as much public repos but i'm willi
 <code><img alt="Docker" title="Docker" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img alt="Java" title="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img alt="Gradle" title="Gradle" width="28px" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code>
+
+### I know how to use
+
+<code><img alt="NuxtJS" title="NuxtJS" width="28px" src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png"></code>
+<code><img alt="Bootstrap" title="Bootstrap" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img alt="Unreal Engine" title="Unreal Engine" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"></code>
+<code><img alt="Android" title="Android" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 ### I used previously, but i left since then
 
 
-<code><img alt="Android" title="Android" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img alt="Arduino" title="Arduino" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img alt="C#" title="C#" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img alt=".NET" title=".NET" width="28px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
 <code><img alt="OpenGL" title="OpenGL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"></code>
 <code><img alt="Unity" title="Unity" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img alt="Bootstrap" title="Bootstrap" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img alt="MySQL" title="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img alt="PHP" title="PHP" width="28px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 
-_Note: those are sorted from the most recent to the oldest_
-
-### I want to learn or i'm learning
+### I want to learn or look into
 
 <code><img alt="C++" title="C++" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img alt="Qt" title="Qt" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
-<code><img alt="NuxtJS" title="NuxtJS" width="28px" src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png"></code>
 <code><img alt="Deno" title="Deno" width="28px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png"></code>
 <code><img alt="Tensorflow" title="Tensorflow" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img alt="React" title="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -72,8 +72,6 @@ _Note: those are sorted from the most recent to the oldest_
 <code><img alt="GraphQL" title="GraphQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img alt="Mongodb" title="Mongodb" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img alt="Firebase" title="Firebase" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-_Note: those are sorted so the one the most to the left is more likely to be the one i'm learning_
 
 ---
 
